@@ -1,0 +1,37 @@
+body{
+  background-image:url("https://images3.alphacoders.com/131/1318066.jpeg");
+  background-size: 300px 100px;
+  background-repeat: no-repeat;
+}
+
+#timesnewroman{
+  font-family:Times New Roman,serif;
+}
+
+#helvetica{
+  font-family:Helvetica,sans-serif;
+}
+
+#lucidaconsole{
+  font-family:Lucida Console,monospace;
+}
+
+a:link{
+  color:blue;
+  text-decoration:none;
+
+}
+a:visited{
+  color:pink;
+}
+a:hover{
+  text-decoration: underline;
+}
+a:active{
+  color:aqua
+
+}
+
+
+
+

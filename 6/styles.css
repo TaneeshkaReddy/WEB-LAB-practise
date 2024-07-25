@@ -1,0 +1,209 @@
+
+
+.navbarone{
+  font-family:Jost, sans-serif;
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #e55c29;
+  height:70px;
+  padding:20px;
+}
+
+.navbarone button{
+  border-radius: 25px;
+}
+
+.navbartwo{
+  color:rgb(22, 23, 23);
+  font-weight: 600;
+  font-family:Jost, sans-serif;
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  height:70px;
+  width:auto;
+  margin-top:2px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+  
+}
+
+.jss-logo{
+  height:70px;
+  width:150px;
+}
+
+
+.news_marquee{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  height:50px;
+  margin: 4px;
+  color:rgb(230, 128, 26);
+  background-color: rgb(217, 232, 245);
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+.news{
+  background-color: red;
+  color:white;
+  height:30px;
+  width:50px;
+  padding: 1px;
+ border-radius: 10px;
+ box-shadow:inset;
+ margin: 10px;
+  
+}
+
+.jss_image{
+  width:auto;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center; 
+  position: relative;
+  text-align: center; 
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+  margin:auto;
+ }
+
+ .text_jssimage{
+  display: inline-block;
+  background-color: rgb(18, 3, 3,0.6);
+  color:white;
+  font-family: Georgia, serif;
+  text-align: left;
+  height: auto;
+  width:600px;
+  padding: 20px;
+
+ }
+
+ .text_jssimage h3{
+  font-family:Jost, sans-serif;
+  text-align: center;
+  
+
+ }
+ .text_jssimage button{
+  background-color:rgb(18, 3, 3,0.6);
+  border-radius: 1px solid rgb(255, 255, 255);
+  color:rgb(255, 255, 255);
+  transition: 0.4s;
+  }
+ .text_jssimage button:hover{
+  background-color:rgb(18, 3, 3);
+  border-radius: 1px solid rgb(244, 240, 240);
+  color:white;
+  }
+
+  .buttons{
+    display:flex;
+  justify-content: space-between;
+  align-items: center;
+  margin:20px
+
+  }
+  #admission{
+    background-color: #e55c29;
+    border-radius: 1px solid black;
+  }
+
+  .btn-outline-info
+ {
+    border-color: #e55c29;
+    border-radius: 4px;
+    color:rgb(169, 173, 175);
+}
+
+.btn-outline-info:hover,
+.btn-outline-info:active,
+.btn-outline-info:visited,
+.btn-outline-info:focus{
+  border-color: rgb(169, 173, 175);
+    border-radius: 4px;
+    color:#e55c29;
+
+    background-color: rgb(169, 173, 175);
+
+}
+
+main{
+  background-color: rgba(11, 11, 178, 0.827);
+  height:500px;
+  margin:auto;
+}
+
+.one{
+  height:500px;
+}
+.orange{
+  color:orange;
+}
+
+.information{
+  text-align: left;
+}
+.container{
+  color:black;
+  margin-top:10px;
+}
+.list-group-item{
+  background-color: rgb(94, 113, 128);
+  color:white;
+  font-family:Jost, sans-serif;
+  border-radius: 10px;;
+
+}
+
+.list-group-item:hover{
+  background-color: rgb(70, 125, 167);
+  color:white;
+  border-radius: 3px;
+
+}
+.academics{
+  font-family:Jost, sans-serif;
+  margin-top:50px;
+  text-align: center;
+}
+
+.col-md-4 text-center{
+  margin-left: 50px;
+}
+.ranking{
+  font-family:Jost, sans-serif;
+  background-color: rgb(36, 72, 99);
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+}
+
+
+body{
+  font-family:Jost, sans-serif;
+  color:rgb(22, 23, 23);
+  font-weight: 600;
+}
+
+.dropdown{
+  font-family:Jost, sans-serif;
+  color:rgb(22, 23, 23);
+  font-weight: 600;
+}
+.btn dropdown-toggle{
+  font-family:Jost, sans-serif;
+  color:rgb(22, 23, 23);
+  font-weight: 600;
+
+}
+a{
+  font-family:Jost, sans-serif;
+  color:rgb(22, 23, 23);
+  font-weight: 600;
+}
+

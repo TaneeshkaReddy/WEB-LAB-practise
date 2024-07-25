@@ -1,0 +1,30 @@
+.main{
+  border:1px solid black;
+  width:700px;
+  
+}
+
+.content{
+  text-align:left;
+  padding:20px;
+  font-family: Helvetica;
+}
+
+.heading{
+  display:flex;
+  flex-direction:row;
+  justify-content: space-between;
+  padding:20px;
+  background-color: aquamarine;
+}
+img{
+  height:200px;
+  width:200px;
+}
+.one{
+  display:flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center;
+
+}
